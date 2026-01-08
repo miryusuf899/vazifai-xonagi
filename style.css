@@ -79,6 +79,81 @@
 {
    display: none;
 }
+.box1
+{
+    width: 70%;
+    height: 600px;
+    margin: auto;
+}
+.yach1
+{
+    width: 166px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+.yach2
+{
+    width: 220px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+.yach3
+{
+    width: 240px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+.yach4
+{
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+.yach5
+{
+    width: 270px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+.one
+{
+    width: 44px;
+    height: 44px;
+    background-color: rgba(255, 255, 255, 1);
+    border: none;
+    border-radius: 10px;
+    color: rgba(89, 139, 224, 1);
+}
+.Glavni2
+{
+    background-color: rgba(245, 245, 245, 1);
+    padding-top: 100px;
+}
+.p2
+{
+    font-size: 20px;
+}
+.yacheykaho
+{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.card
+{
+    width: 270px;
+    height: 147px;
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 @media (max-width:510px) 
 {
     .buttontele
